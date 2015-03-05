@@ -1,0 +1,91 @@
+functions:
+
+- how to determine if a string is a palindrome...
+
+- fibonacci sequence...
+
+- JSON response consisting of an array of 3-4 similar objects made of the same properties w/ 
+differing values, how would you transform them into another given format to be consumed/presented
+
+- Given a static comp/mockup, give the basic HTML with relevant classes, etc and explain why you chose to code it the way you did...
+
+- Given a simple JSON response consisting of an array of 3-4 similar objects made of the same properties w/ differing values, how would you transform them into another given format to be consumed/presented?
+
+- Given a interaction where hovering a link displays a tooltip of dynamic information (e.g.- Ajax), write the basic functions to perform the lookup (yes, jQuery is allowed) and explain how you'd cache the results so an HTTP request wasn't made if the tooltip already existed
+
+- Create a native javscript function that adds a class to an element
+
+- Create a function that compares 2 objects
+
+General Web Programming:
+
+- check if a form is empty...
+
+- prototypes...
+
+- variable scope...
+
+- caching...
+
+- closures...
+
+- Write an algorithm that returns T or F in finding a substring in a string 
+
+- replace all subarrays in an original array which match a given array, replace using another array: For example, we have:
+original array: "aaabbc"
+findarray: "bb"
+replaceArray: "ee"
+After running your function, it should be "aaaeec";
+
+- Write an add class function in native javascript/DOM API
+
+accessibility:
+
+- talk about helping children with special needs, etc...
+
+- graceful degredation vs. progressive enhancement...
+
+Progressive Enhancement is the process of starting with a solid base product and expanding from there. For example, you start with a really good video player, then you add a playlist, then you add video converter. Basically, starting from a single point and expanding outwards as needed (usually by user-feedback)
+
+Graceful Degradation is the opposite, for example, say you built a website with way too many features - you could use the process of graceful degradation to slowly strip away the unnecessary features and reinforce the important ones. edit: think of it like a net... You start wanting to catch as much as possible, then you contract around what you actually catch.
+
+- performance...
+
+- Implement a function to determine if a DOM element is the descendant of another one or not
+
+- function that would flatten an associative array into a single array
+
+-  I first had to develop a small widget, just the basic html css and javascript for how I would do it, simple enough. The third guy had me create a function for adding a class in JavaScript, given an element or ID string, and the class string to add. He was looking to see if I understood the DOM and use of NodeType for checking for if an element or string was being passed and how to add the class to the className
+
+- 1. Use of Reset CSS
+2. Form Submission ( cases of return False, event.PreventDefault)
+3. Explain Semantic Markup
+4. Explain Clearfix
+5. what is hasLayout
+6. Inline js and addEventlistener ( Compare)
+7 diff between == & ===
+8. speak of yourself and your role and experience
+9. challenges you face
+
+- 1. Question on CSS specificity
+2. Javascript question and write a performance efficent code of a given example.
+3. event.target
+4. Write the addClass function in native js
+5. How do you design a Navigation Bar
+6. Question on form submission - Submit a form with a input text field and some check box fields. Before submit check if atleast 2 checkboxes are checked .
+
+html:
+
+- semantic...
+
+- when shown a mockup, create HTML structure and id's and classes, attrs, etc...
+
+css:
+
+- edge cases...
+
+- box model...
+
+General:
+
+- How do you estimate "value" to the work that you do and how does that help the company you work for and for you and your career goals?
